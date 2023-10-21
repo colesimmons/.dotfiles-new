@@ -1,0 +1,17 @@
+[github]
+  user = colesimmons
+[core]
+  excludesfile = ~/.gitignore
+  editor = nvim
+  ignorecase = false
+[push]
+  default = simple
+[color]
+  status = auto
+  diff = auto
+  branch = auto
+  interactive = auto
+  grep = auto
+  ui = auto
+[hub]
+  protocol = https
